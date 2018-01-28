@@ -28,5 +28,5 @@ Follow the on screen steps to get an API key and place it in the quotes for `pet
 ## Setting up a CRON Job
 [Setting up a basic cron job in linux](https://www.taniarascia.com/setting-up-a-basic-cron-job-in-linux/)
 
-#Running the Script
+# Running the Script
 After setup has been completed you can run the script by issuing `python cutepets.py`
