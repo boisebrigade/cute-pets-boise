@@ -1,5 +1,6 @@
 # Cute Pets Boise
-A python twitter bot origionally developed to be ran on a raspberry pi that grabs information from PetFinder API and posts tweets to [Cute Pets Boise](www.twitter.com/cutepetsboise)
+A python twitter bot origionally developed to be ran on a raspberry pi that grabs information from PetFinder API and posts tweets to 
+[Cute Pets Boise](https://www.twitter.com/cutepetsboise)
 This script is designed to run and be done. Below is information on setting up a cron job to run this multiple times at set intervals.
 
 ## Initial Setup
